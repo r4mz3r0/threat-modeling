@@ -17,3 +17,10 @@
 
 ## Best Practices
 _Do not rely on obscurity as a means of security_
+
+## Human Hacking 
+1. Humans are the weakest link in any system 
+- Users will stop using the system iif there is to many security measures 
+- Users will bypass security 
+- To much Security may impair productivity
+
